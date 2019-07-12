@@ -1,0 +1,20 @@
+1. Soap-client 
+https://github.com/sugeng/soap-client
+Soap Client for Forlap PDDIKTI Application using Laravel with PHP 7 Support
+
+2. pddikti-ws-lib
+https://github.com/umarfaisol/pddikti-ws-lib
+Library untuk mengakses PDDikti (Pangkalan Data Pendidikan Tinggi) Feeder menggunakan bahasa pemrograman Java
+
+3. yii2-wsfeeder
+https://github.com/virbo/yii2-wsfeeder
+Module Web service PDDIKTI Feeder
+
+4. aksesfeeder.id
+https://github.com/rofickachmad/aksesfeeder.id
+Akses Feeder PDDIKTI
+
+5. pddikti-puller
+https://github.com/fathonir/pddikti-puller
+Aplikasi untuk menarik data pangkalan data pendidikan tinggi Ristekdikti
+
